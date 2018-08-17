@@ -1,4 +1,4 @@
-# rails-module-routing
+# rails-notes-routing
 > About rails routing usage notes.
 
 
